@@ -72,7 +72,7 @@ while turns > 0:
         print("Wrong")
          
         # this will print the number of
-        # turns left for the user
+        # turns left for the  user
         print("You have", + turns, 'more guesses')
          
          
